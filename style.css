@@ -13,7 +13,8 @@ body{
     box-shadow: #ddd;
     padding: 40px 100px 40px 100px;
     border: black 10px;
-    display: block;
+    display: inline-block;
+    margin-left: 200px;
 
 }
 

@@ -10,7 +10,7 @@ body{
     width: 700px;
     border-radius: 3%;
     background-color: white;
-    box-shadow: #ddd;
+    box-shadow:1px 1px 5px #ddd;
     padding: 40px 100px 40px 100px;
     border: black 10px;
     display: inline-block;

@@ -38,6 +38,8 @@ li{
     display: inline-block;
     padding: 2px;
     font-size: smaller;
+    font-weight: 800;
+    
    
 }
 ul{
@@ -54,3 +56,46 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
+
+nav {
+    position: sticky;
+    top: 1em;
+    background-color: #ddd;
+}
+
+.more-articles section{
+    display: inline-block;
+    border: solid black;
+    width: 44%;
+    margin: 0 1em;
+}
+
+.more-articles{
+    border-top: 1px solid #eee;
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+.three-articles{
+    border-top 1px solid #eee;
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+.three-articles section{
+    display: inline-block;
+    border: solid black;
+    width: 24%;
+    margin: 10 3em;
+}
+
+footer{
+    display: block;
+    width: 900px;
+    height: 100px;
+    margin: 1 3em;
+    text-align:;
+    padding: 3px;
+    background-color: salmon;
+    color: white;
+}
